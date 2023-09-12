@@ -1,3 +1,3 @@
 **Final Result**
 
-![](./Final-Result.jpg)
+![](../Final-Result.jpg)
