@@ -1,5 +1,5 @@
 # React-projects
-Personal projects using Vistual Studio Code and React
+Personal projects using Vistual Studio Code and React. Inside each folder there is a *README.md* file with the final result of each project
 
 **<u>Projects:</u>**
 
